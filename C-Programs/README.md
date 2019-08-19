@@ -1,0 +1,1 @@
+This is a collection of the various programs and common functions I implemented during my systems programming class. The code is far from error free, and I am working to refine each to ensure they compile and run correctly.
